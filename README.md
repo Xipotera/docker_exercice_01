@@ -6,7 +6,7 @@ Un bon développeur crée des fichiers README bien écrits qui peuvent être uti
 Vous récupérerez l'image `xipotera/find_secret_message`. Vous l'éxécuterez avec les arguments `-it` comme ceci : 
 
 ```
-docker run -it xipotera/exo01
+docker run -it xipotera/find_secret_message
 ```
 
 Comme vous pouvez le voir, une entrée utilisateur est attendue. 
