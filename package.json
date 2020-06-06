@@ -1,0 +1,25 @@
+{
+  "name": "exercice_01",
+  "version": "1.0.0",
+  "description": "quelle est la phrase secrète ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xipotera/docker_exercises.git"
+  },
+  "keywords": [
+    "exercice",
+    "01",
+    "cours",
+    "docker"
+  ],
+  "author": "mathieu.vie@imerir.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xipotera/docker_exercises/issues"
+  },
+  "homepage": "https://github.com/Xipotera/docker_exercises#readme"
+}
